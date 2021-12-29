@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Api Integration</string>
+    <string name="BASE_URL">https://jsonplaceholder.typicode.com/</string>
+</resources>
